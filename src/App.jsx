@@ -1,6 +1,7 @@
 import './App.css'
 import EventMain from './components/EventMain'
 import UiEventMain from './components/UiEventMain'
+import WeeklyCalendar from './components/WeeklyCalender'
 
 function App() {
   
@@ -8,7 +9,8 @@ function App() {
   return (
     <>
       {/* <EventMain/> */}
-      <UiEventMain/>
+      {/* <UiEventMain/> */}
+      <WeeklyCalendar/>
     </>
   )
 }
