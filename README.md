@@ -1,4 +1,4 @@
-
+# weekly calender
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -8,14 +8,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#Functionality:
+# Functionality:
 
 gives week wise calender with date and able to save data in backend or json so printing in console.
 
-#Used:
+# Used:
 React, Tailwind ,date-fns library 
 
-#samples:
+# samples:
 
 ![image](https://github.com/kadamkishan/weekly-calender/assets/76566420/384ca805-868b-4ffa-9be1-06b840644e68)
 
