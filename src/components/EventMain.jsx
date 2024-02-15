@@ -13,12 +13,14 @@ const EventMain = () => {
         end:lastDayOfWeek,
     })
 
-
+    
+    const formattedDate = format(currentDate, "MMMM d, yyyy");
+    
     return (
         <div className='container max-auto p-2'>
             <div >
                 <h2 className='text-center'>
-                    {format(currentDate,"MMMM yyyy")}
+                    {formattedDate}
                 </h2>
             </div>
 
